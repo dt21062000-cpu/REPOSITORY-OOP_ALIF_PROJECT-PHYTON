@@ -1,0 +1,2 @@
+print("Hello, World!")
+print("Hello");print("fariz");print("kabogoh");print("si");print("kusit");print("lanceuk");print("na");print("sigoler")
